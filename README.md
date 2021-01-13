@@ -2,7 +2,7 @@
 
 This collection of scripts is meant to be run in the [Scriptable](https://scriptable.app/) app for iOS. It presents you with your favorite recipes and uses your selection to create a list of required ingredients as a checklist inside an [Agenda](https://agenda.com/) project. It fetches the recipe data from a [Contentful](https://www.contentful.com/) space.
 
-<img src="./assets/shopping-list.gif" style="width: 50%; min-width: 200px;">
+![](./assets/shopping-list-small.gif)
 
 [Click here for a short demo video.](https://twitter.com/mgschoen/status/1349435919208747015)
 
